@@ -1,2 +1,2 @@
 import numpy as np; g=np.array([0.3,0.4,0.5]); n=np.array([0.1,0.2,0.3]);ndwi=(g-n)/(g+n); print('NDWI Output:', ndwi)
-#CD Trigger..
+#CD Trigger....
